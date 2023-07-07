@@ -27,7 +27,7 @@ def rec(a, b):
 
 def task():
     a = enter_num('number')
-    b = enter_num('degree number')
+    b = enter_num('number')
 
     print(rec(a, b))
 
